@@ -37,4 +37,4 @@ To run the Level-Based Foraging experiments, additional dependencies are require
 pip install gymnasium lbforaging imageio[ffmpeg]
 ```
 
-# More information on the corresponding folders
+### More information on the corresponding folders
